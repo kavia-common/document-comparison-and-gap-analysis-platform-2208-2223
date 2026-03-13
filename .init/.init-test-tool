@@ -1,0 +1,4 @@
+{
+    "command": "python test_db.py",
+    "working_directory": "/home/kavia/workspace/code-generation/document-comparison-and-gap-analysis-platform-2208-2223/database"
+}
